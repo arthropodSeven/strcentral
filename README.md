@@ -1,8 +1,9 @@
 # String Central
-#### CS 480 - Assignment 2
 
-### By Andrew Stebenne
-### 4 February, 2015
+#### By Andrew Stebenne - 4 February 2015
+
+This is the second assignment from Northern Arizona University's CS 480 - Operating Systems
+class. 
 
 String Central takes an input string and modifies it according to a selected function. The
 available modification functions are stored as an array of pointers to functions.
